@@ -1,13 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1407a1c1-2e4e-47e4-97b3-02ea394508bb" name="Default Changelist" comment="" />
+    <list default="true" id="1407a1c1-2e4e-47e4-97b3-02ea394508bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TutorialMod.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TutorialMod.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dda41f76a3749b68a7d2c0b32c7650b9ac9338bb" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gjzTWdro1qCIXwY8LCg1UBa4j8" />
@@ -21,6 +55,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
+  <component name="RunManager" selected="Application.runClient" />
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -46,7 +81,33 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="734" y="340" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598643864656">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="340" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598643864656" />
+    <state x="833" y="217" key="CommitChangelistDialog2" timestamp="1598643785736">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="833" y="217" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598643785736" />
+    <state x="973" y="335" key="RollbackChangesDialog" timestamp="1598643762348">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="973" y="335" key="RollbackChangesDialog/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598643762348" />
     <state x="657" y="248" key="SettingsEditor" timestamp="1598642951520">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -55,5 +116,13 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="772" y="360" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598642891656" />
+    <state x="891" y="472" key="com.intellij.ide.util.TipDialog" timestamp="1598643952518">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="891" y="472" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598643952518" />
+    <state x="900" y="437" key="git4idea.merge.GitPullDialog" timestamp="1598643814264">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="900" y="437" key="git4idea.merge.GitPullDialog/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598643814264" />
   </component>
 </project>
