@@ -1,6 +1,8 @@
 package LeadFreeCandy.examplemod;
 
+import LeadFreeCandy.proxy.ClientProxy;
 import LeadFreeCandy.proxy.IProxy;
+import LeadFreeCandy.proxy.ServerProxy;
 import net.minecraftforge.fml.common.SidedProxy;
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
@@ -24,6 +26,8 @@ public class TutorialMod {
 
     @SidedProxy(clientSide = TutorialMod.CLIENT, serverSide = TutorialMod.SERVER)
     public static IProxy proxy;
+    public static ServerProxy serverProxy;
+    public static ClientProxy clientProxy;
 
     public static final Logger LOGGER = LogManager.getLogger(TutorialMod.MODID);
 
