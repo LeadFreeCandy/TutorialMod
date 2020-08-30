@@ -14,6 +14,6 @@ public class ModItems {
 
     public static final List<Item> ITEMS = new ArrayList<Item>();
 
-    public static final Item CUM = new ItemBase("Cum");
+    public static final Item CUM = new ItemBase("cum");
 
 }
