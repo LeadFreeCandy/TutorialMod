@@ -8,10 +8,8 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeadFreeCandy/examplemod/init/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeadFreeCandy/examplemod/init/ModItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/tutorialmod/lang/en_us.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tutorialmod/lang/en_us.lang" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/tutorialmod/models/item/cum.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tutorialmod/models/item/cum.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeadFreeCandy/examplemod/TutorialMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeadFreeCandy/examplemod/TutorialMod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeadFreeCandy/examplemod/items/ItemBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeadFreeCandy/examplemod/items/ItemBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,14 +63,14 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\samir\Desktop\MoDdInG\TutorialMod\src\main\resources\tutorialmod\textures\items" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="LeadFreeCandy.examplemod.registration" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\samir\Desktop\MoDdInG\TutorialMod\src\main\resources" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="LeadFreeCandy.examplemod.registration" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\samir\Desktop\MoDdInG\TutorialMod\src\main\resources\tutorialmod\textures\items" />
     </key>
   </component>
   <component name="RunManager" selected="Application.runClient" />
@@ -178,30 +176,30 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="833" y="217" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598757073840" />
-    <state width="1252" height="388" key="GridCell.Tab.0.bottom" timestamp="1598757064854">
+    <state width="1252" height="388" key="GridCell.Tab.0.bottom" timestamp="1598765128235">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1252" height="388" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598757064854" />
-    <state width="1252" height="388" key="GridCell.Tab.0.center" timestamp="1598757064854">
+    <state width="1252" height="388" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598765128235" />
+    <state width="1252" height="388" key="GridCell.Tab.0.center" timestamp="1598765128235">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1252" height="388" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598757064854" />
-    <state width="1252" height="388" key="GridCell.Tab.0.left" timestamp="1598757064854">
+    <state width="1252" height="388" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598765128235" />
+    <state width="1252" height="388" key="GridCell.Tab.0.left" timestamp="1598765128235">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1252" height="388" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598757064854" />
-    <state width="1252" height="388" key="GridCell.Tab.0.right" timestamp="1598757064854">
+    <state width="1252" height="388" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598765128235" />
+    <state width="1252" height="388" key="GridCell.Tab.0.right" timestamp="1598765128235">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1252" height="388" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598757064854" />
+    <state width="1252" height="388" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598765128235" />
     <state x="920" y="337" key="MultipleFileMergeDialog" timestamp="1598756998821">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="920" y="337" key="MultipleFileMergeDialog/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598756998821" />
-    <state x="973" y="335" key="RollbackChangesDialog" timestamp="1598643762348">
+    <state x="973" y="335" key="RollbackChangesDialog" timestamp="1598758314881">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="973" y="335" key="RollbackChangesDialog/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598643762348" />
+    <state x="973" y="335" key="RollbackChangesDialog/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598758314881" />
     <state x="657" y="248" key="SettingsEditor" timestamp="1598642951520">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

@@ -26,8 +26,7 @@ public class TutorialMod {
 
     @SidedProxy(clientSide = TutorialMod.CLIENT, serverSide = TutorialMod.SERVER)
     public static IProxy proxy;
-    public static ServerProxy serverProxy;
-    public static ClientProxy clientProxy;
+
 
     public static final Logger LOGGER = LogManager.getLogger(TutorialMod.MODID);
 
