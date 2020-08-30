@@ -1,5 +1,6 @@
 package LeadFreeCandy.proxy;
 
+import LeadFreeCandy.examplemod.items.ItemBase;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;
 import net.minecraftforge.client.model.ModelLoader;
@@ -25,6 +26,9 @@ public class ClientProxy implements IProxy {
 
         ModelLoader.setCustomModelResourceLocation(item, meta, new ModelResourceLocation(item.getRegistryName(), id));
 
+    }
+
+    public void registerItemRenderer(ItemBase itemBase, int i, String inventory) {
     }
 
 }
