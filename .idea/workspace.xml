@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1407a1c1-2e4e-47e4-97b3-02ea394508bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tutorialmod/lang/en_us.lang" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tutorialmod/models/item/cum.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeadFreeCandy/registration/ModelRegistrationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeadFreeCandy/examplemod/items/ItemBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeadFreeCandy/examplemod/items/ItemBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +37,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -57,6 +63,9 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\samir\Desktop\MoDdInG\TutorialMod\src\main\resources\tutorialmod\textures\items" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\samir\Desktop\MoDdInG\TutorialMod\src\main\resources" />
     </key>
@@ -116,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598753314753</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added images and json">
+      <created>1598753541623</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598753541623</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,7 +152,8 @@
     <MESSAGE value="build stuff" />
     <MESSAGE value="main stuff" />
     <MESSAGE value="added item stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="added item stuff" />
+    <MESSAGE value="added images and json" />
+    <option name="LAST_COMMIT_MESSAGE" value="added images and json" />
   </component>
   <component name="WindowStateProjectService">
     <state x="734" y="340" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598643864656">
@@ -147,26 +164,26 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="800" y="602" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598750059923" />
-    <state x="833" y="217" key="CommitChangelistDialog2" timestamp="1598753313108">
+    <state x="833" y="217" key="CommitChangelistDialog2" timestamp="1598753540860">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="833" y="217" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598753313108" />
-    <state width="1253" height="388" key="GridCell.Tab.0.bottom" timestamp="1598753215452">
+    <state x="833" y="217" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598753540860" />
+    <state width="1253" height="388" key="GridCell.Tab.0.bottom" timestamp="1598756086290">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1253" height="388" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598753215452" />
-    <state width="1253" height="388" key="GridCell.Tab.0.center" timestamp="1598753215452">
+    <state width="1253" height="388" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598756086290" />
+    <state width="1253" height="388" key="GridCell.Tab.0.center" timestamp="1598756086290">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1253" height="388" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598753215452" />
-    <state width="1253" height="388" key="GridCell.Tab.0.left" timestamp="1598753215452">
+    <state width="1253" height="388" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598756086290" />
+    <state width="1253" height="388" key="GridCell.Tab.0.left" timestamp="1598756086290">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1253" height="388" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598753215452" />
-    <state width="1253" height="388" key="GridCell.Tab.0.right" timestamp="1598753215452">
+    <state width="1253" height="388" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598756086290" />
+    <state width="1253" height="388" key="GridCell.Tab.0.right" timestamp="1598756086290">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1253" height="388" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598753215452" />
+    <state width="1253" height="388" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598756086290" />
     <state x="973" y="335" key="RollbackChangesDialog" timestamp="1598643762348">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -175,10 +192,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="657" y="248" key="SettingsEditor/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598642951520" />
-    <state x="772" y="360" key="Vcs.Push.Dialog.v2" timestamp="1598753316778">
+    <state x="772" y="360" key="Vcs.Push.Dialog.v2" timestamp="1598756068233">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="772" y="360" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598753316778" />
+    <state x="772" y="360" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598756068233" />
     <state x="891" y="472" key="com.intellij.ide.util.TipDialog" timestamp="1598643952518">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -191,5 +208,16 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="852" y="327" key="run.anything.popup/0.0.2560.1400/2560.0.2048.1112@0.0.2560.1400" timestamp="1598752619193" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeadFreeCandy/examplemod/items/ItemBase.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

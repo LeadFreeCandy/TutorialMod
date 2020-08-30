@@ -23,7 +23,7 @@ public class ItemBase extends Item implements IHasModel {
 
         //Main.proxy.registerItemRenderer(this, 0, "inventory");
 
-        TutorialMod.proxy.registerItemRenderer(this, 0, "inventory");
+        TutorialMod.serverProxy.registerItemRenderer(this, 0, "inventory");
 
 
 
